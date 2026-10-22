@@ -1,0 +1,16 @@
+
+====================================================================
+StreamVerse Native Android Client Package - v2.4.0 Release Build
+Package Target: Android Mobile / Touch UI
+Package ID: com.streamverse.mobile
+Target Architecture: ARM64-v8a / Universal
+Target SDK: Android 13 (API 33)
+Build Date: 2026-10-22T17:45:35.655Z
+Status: Signed & Verified
+====================================================================
+
+[StreamVerse Native Module Stack Installed]
+- Engine Mode: Touch Gestures & Portrait/Landscape
+- Addon Engine System: Cinemeta, Torrentio, OpenSubtitles Active
+- Hardware Video Decoder: WebGL/ExoPlayer Native
+            
